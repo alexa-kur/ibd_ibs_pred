@@ -1,5 +1,5 @@
 ---
-title: "patent_stuff"
+title: "Prediction models IBD/IBS"
 author: "alexa kur"
 date: '7 Mar 2017'
 output: html_document
